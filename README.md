@@ -4,3 +4,4 @@ Personalized AI-advice
 Financial insights
 In-depth analysis
 Health focused tips
+Financial analysis
