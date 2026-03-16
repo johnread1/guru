@@ -6,3 +6,4 @@ In-depth analysis
 Health focused tips
 Financial analysis
 Personalized plan
+Multiple feedback
