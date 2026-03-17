@@ -9,3 +9,4 @@ Personalized plan
 Multiple feedback
 Tracking multiple things
 Analyzing multiple ideas
+Narrowing down few
