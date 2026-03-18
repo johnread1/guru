@@ -10,3 +10,4 @@ Multiple feedback
 Tracking multiple things
 Analyzing multiple ideas
 Narrowing down few
+Programming a AI bot
