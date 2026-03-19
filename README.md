@@ -12,3 +12,4 @@ Analyzing multiple ideas
 Narrowing down few
 Programming a AI bot
 Opened Tips
+Written few snippets of codes
