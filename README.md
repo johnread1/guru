@@ -15,3 +15,4 @@ Opened Tips
 Written few snippets of codes
 Data analysis done
 Drag and drop feature added
+Guru analysis aded
