@@ -18,3 +18,4 @@ Drag and drop feature added
 Guru analysis aded
 Data incorporated
 Working on finetuning the app
+Fixing on bugs
