@@ -19,3 +19,4 @@ Guru analysis aded
 Data incorporated
 Working on finetuning the app
 Fixing on bugs
+Working more on few ideas to incorporate
