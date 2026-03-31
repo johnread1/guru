@@ -22,3 +22,4 @@ Fixing on bugs
 Working more on few ideas to incorporate
 New insights generated
 Generating more tips
+Personalized section for tips designed
