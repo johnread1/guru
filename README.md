@@ -24,3 +24,4 @@ New insights generated
 Generating more tips
 Personalized section for tips designed
 Ranging tips added
+Tips for health added
