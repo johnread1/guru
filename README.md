@@ -28,3 +28,4 @@ Tips for health added
 Retirement planning feature
 Support for multiple countries
 Adding payment mode
+Subscription mode for monthly and yearly
