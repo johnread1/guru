@@ -27,3 +27,4 @@ Ranging tips added
 Tips for health added
 Retirement planning feature
 Support for multiple countries
+Adding payment mode
