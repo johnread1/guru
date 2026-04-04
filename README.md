@@ -29,3 +29,4 @@ Retirement planning feature
 Support for multiple countries
 Adding payment mode
 Subscription mode for monthly and yearly
+AI health insights added
