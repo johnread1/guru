@@ -34,3 +34,4 @@ AI financial tips added
 AI bot providing valuable tips
 Thinking to add tips to exercise
 New critical bugs encountered after recent updates
+Fixed latest bugs
