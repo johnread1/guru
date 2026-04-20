@@ -36,3 +36,4 @@ Thinking to add tips to exercise
 New critical bugs encountered after recent updates
 Fixed latest bugs
 Few fixed
+Tips are getting fixed with help of AI
