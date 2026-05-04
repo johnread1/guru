@@ -40,3 +40,4 @@ Tips are getting fixed with help of AI
 Adding few disclaimers
 Need to rewrite the part of the code to fix new bugs
 Adding few more feature to boost capabilities
+Making new Guru analysis
