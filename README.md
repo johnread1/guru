@@ -43,3 +43,4 @@ Adding few more feature to boost capabilities
 Making new Guru analysis
 Summarizing tips
 New bugs were fixed
+New Health analysis added
