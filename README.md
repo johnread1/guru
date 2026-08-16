@@ -48,3 +48,4 @@ Need fixes
 Intelligent tips incorporated
 New AI model for analysis search
 Insights improvised 
+Improved some UI
